@@ -29,6 +29,8 @@
     <Content Include="firefoxdriver_32.exe" />
     <Content Include="firefoxdriver_64" />
     <Content Include="firefoxdriver_64.exe" />
+    <Content Include="iedriver_32.exe" />
+    <Content Include="iedriver_64.exe" />
     <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
