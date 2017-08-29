@@ -25,6 +25,7 @@
     <Content Include="chromedriver_32" />
     <Content Include="chromedriver_32.exe" />
     <Content Include="chromedriver_64" />
+    <Content Include="edgedriver_64.exe" />
     <Content Include="firefoxdriver_32" />
     <Content Include="firefoxdriver_32.exe" />
     <Content Include="firefoxdriver_64" />
