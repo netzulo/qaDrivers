@@ -1,5 +1,9 @@
-# qadrivers
-Selenium drivers to use on qalab+qacode proyects
+# qadrivers  **[API documentation](http://qalab.tk/qadrivers/)**
+
+| Branch  | Linux 32 | Linux 64 | Windows 32 | Windows 64 |
+| ------------- | ------------- |  ------------- |
+| master  | ?  | ?  | ?  | ?  |
+| devel  | ?  | ?  | ?  | ?  |
 
 
 ## Chrome
