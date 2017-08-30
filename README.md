@@ -2,11 +2,11 @@
 
 | Drivers  | Linux 32 | Linux 64 |  Windows 32 | Windows 64 |
 | ------------- | ------------- |  ------------- |  ------------- |  ------------- |
-| Chrome |  OK |  OK |  OK |  _doesn't exist_ |
-| Firefox |  - |  - |  OK |  OK |
+| Chrome |  OK |  OK |  OK |  OK |
+| Firefox |  OK |  OK |  OK |  OK |
 | PhantomJs |  - |  - |  - |  - |
-| Internet Explorer |  - |  - |  OK |  OK |
-| Edge |  _doesn't exist_ |  _doesn't exist_ |  _doesn't exist_ |  OK |
+| Internet Explorer |  _doesn't exist_ |  _doesn't exist_ |  OK |  OK |
+| Edge |  _doesn't exist_ |  _doesn't exist_ |  OK |  OK |
 
 
 ## Chrome
@@ -35,10 +35,11 @@
 
 ## Internet Explorer
 
-+ Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iedriver_32.exe)**
-+ Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iedriver_64.exe)**
++ Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_32.exe)**
++ Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_64.exe)**
 
 ## Edge
 
++ Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_64.exe)**
 

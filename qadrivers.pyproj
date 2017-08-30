@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="chromedriver_32" />
+    <Content Include="chromedriver_64.exe" />
     <Content Include="chromedriver_32.exe" />
     <Content Include="chromedriver_64" />
     <Content Include="edgedriver_64.exe" />
@@ -30,8 +31,8 @@
     <Content Include="firefoxdriver_32.exe" />
     <Content Include="firefoxdriver_64" />
     <Content Include="firefoxdriver_64.exe" />
-    <Content Include="iedriver_32.exe" />
-    <Content Include="iedriver_64.exe" />
+    <Content Include="iexplorerdriver_32.exe" />
+    <Content Include="iexplorerdriver_64.exe" />
     <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
