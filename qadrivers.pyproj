@@ -34,6 +34,10 @@
     <Content Include="firefoxdriver_64.exe" />
     <Content Include="iexplorerdriver_32.exe" />
     <Content Include="iexplorerdriver_64.exe" />
+    <Content Include="phantomjsdriver_32" />
+    <Content Include="phantomjsdriver_32.exe" />
+    <Content Include="phantomjsdriver_64" />
+    <Content Include="phantomjsdriver_64.exe" />
     <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
