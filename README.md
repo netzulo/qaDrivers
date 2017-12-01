@@ -11,6 +11,8 @@
 
 ## Chrome
 
+__Version : **2.33**__
+
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe)**
 
@@ -18,6 +20,8 @@
 + Linux 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_64)**
 
 ## Firefox
+
+__Version : **-**__
 
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32.exe)**
@@ -27,6 +31,8 @@
 
 ## PhantomJs
 
+__Version : **-**__
+
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64.exe)**
 
@@ -35,10 +41,14 @@
 
 ## Internet Explorer
 
+__Version : **-**__
+
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_64.exe)**
 
 ## Edge
+
+__Version : **-**__
 
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_64.exe)**
