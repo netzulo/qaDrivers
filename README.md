@@ -7,6 +7,7 @@
 | PhantomJs |  OK |  OK |  OK |  OK |
 | Internet Explorer |  _doesn't exist_ |  _doesn't exist_ |  OK |  OK |
 | Edge |  _doesn't exist_ |  _doesn't exist_ |  OK |  OK |
+| Opera |  noqa |  noqa |  noqa |  noqa |
 
 
 ## Chrome
@@ -53,3 +54,12 @@ __Version : **-**__
 + Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_32.exe)**
 + Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_64.exe)**
 
+## Opera
+
+__Version : **-**__
+
++ Windows 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_32.exe)**
++ Windows 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_32.exe)**
+
++ Linux 32 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_32)**
++ Linux 64 bits : **[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_64)**
