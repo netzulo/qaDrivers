@@ -31,9 +31,9 @@ QA drivers
 +------------------------+--------------------+--------------------+--------------------+--------------------+
 |  PhantomJs             |         OK         |         OK         |         OK         |         OK         |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
-|  Internet Explorer     |  _doesn't exist_   |  _doesn't exist_   |         OK         |         OK         |
+|  Internet Explorer     |  *doesn't exist*   |  *doesn't exist*   |         OK         |         OK         |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
-|  Edge                  |  _doesn't exist_   |  _doesn't exist_   |         OK         |         OK         |
+|  Edge                  |  *doesn't exist*   |  *doesn't exist*   |         OK         |         OK         |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
 |  Internet Explorer     |        noqa        |        noqa        |        noqa        |        noqa        |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
@@ -42,64 +42,64 @@ QA drivers
 Chrome
 ------
 
-*Original file Version :* **[v2.33](https://chromedriver.storage.googleapis.com/index.html?path=2.33/)**
+*Original file Version :* `v2.33`_ https://chromedriver.storage.googleapis.com/index.html?path=2.33/
 
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe)*
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe
 
-+ Linux 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_32)*
-+ Linux 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/chromedriver_64)*
++ Linux 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/chromedriver_32
++ Linux 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/chromedriver_64
 
 
 Firefox
 -------
 
-*Original file Version :* **[v0.19.0](https://github.com/mozilla/geckodriver/releases/tag/v0.19.0)**
+*Original file Version :* `v0.19.0`_ https://github.com/mozilla/geckodriver/releases/tag/v0.19.0
 
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_64.exe)*
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_64.exe
 
-+ Linux 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32)*
-+ Linux 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_64)*
-
-
-PhantomJs
----------
-
-*Original file Version :* **[v2.1.1](http://phantomjs.org/download.html)**
-
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64.exe)*
-
-+ Linux 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_32)*
-+ Linux 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64)*
++ Linux 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32
++ Linux 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_64
 
 
 PhantomJs
 ---------
 
-*Original file Version :* **[v3.5.3](http://www.seleniumhq.org/download/)**
+*Original file Version :* `v2.1.1` http://phantomjs.org/download.html
 
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_64.exe)*
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64.exe
+
++ Linux 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_32
++ Linux 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64
+
+
+PhantomJs
+---------
+
+*Original file Version :* `v3.5.3`_ http://www.seleniumhq.org/download/
+
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_64.exe
 
 
 Edge
 ----
 
-*Original file Version :* **[v5.16299](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)**
+*Original file Version :* `v5.16299`_ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/edgedriver_64.exe)*
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/edgedriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/edgedriver_64.exe
 
 
 Opera
 -----
 
-*Original file Version :* **[v2.32](https://github.com/operasoftware/operachromiumdriver/releases)**
+*Original file Version :* `v2.32`_ (https://github.com/operasoftware/operachromiumdriver/releases
 
-+ Windows 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_32.exe)*
-+ Windows 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_64.exe)*
++ Windows 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/operadriver_32.exe
++ Windows 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/operadriver_64.exe
 
-+ Linux 32 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_32)*
-+ Linux 64 bits : *[Download file](https://github.com/netzulo/qadrivers/raw/master/operadriver_64)*
++ Linux 32 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/operadriver_32
++ Linux 64 bits : `Download file`_ https://github.com/netzulo/qadrivers/raw/master/operadriver_64
