@@ -35,19 +35,17 @@ QA drivers
 +------------------------+--------------------+--------------------+--------------------+--------------------+
 |  Edge                  |  *doesn't exist*   |  *doesn't exist*   |         OK         |         OK         |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
-|  Internet Explorer     |        noqa        |        noqa        |        noqa        |        noqa        |
-+------------------------+--------------------+--------------------+--------------------+--------------------+
 
 
 Chrome
 ------
 
-*Original file Version :* _`v2.33`: https://chromedriver.storage.googleapis.com/index.html?path=2.33/
+*Original file Version :* _`v2.37`: https://chromedriver.storage.googleapis.com/index.html?path=2.37/
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe
-+ Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe
++ Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe (*copy from windows32 file*)
 
-+ Linux 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32
++ Linux 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32 (*copy from linux64 file*)
 + Linux 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64
 
 
