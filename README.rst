@@ -35,6 +35,8 @@ QA drivers
 +------------------------+--------------------+--------------------+--------------------+--------------------+
 |  Edge                  |  *doesn't exist*   |  *doesn't exist*   |         OK         |         OK         |
 +------------------------+--------------------+--------------------+--------------------+--------------------+
+|  Opera                 |       *noqa*       |       *noqa*       |       *noqa*       |       *noqa*       |
++------------------------+--------------------+--------------------+--------------------+--------------------+
 
 
 Chrome
@@ -52,7 +54,7 @@ Chrome
 Firefox
 -------
 
-*Original file Version :* _`v0.19.0`: https://github.com/mozilla/geckodriver/releases/tag/v0.19.0
+*Original file Version :* _`v0.20.1`: https://github.com/mozilla/geckodriver/releases/tag/v0.20.1
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_32.exe
 + Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/firefoxdriver_64.exe
@@ -73,8 +75,8 @@ PhantomJs
 + Linux 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/phantomjsdriver_64
 
 
-PhantomJs
----------
+Internet Explorer
+-----------------
 
 *Original file Version :* _`v3.5.3`: http://www.seleniumhq.org/download/
 
