@@ -42,7 +42,7 @@ QA drivers
 Chrome
 ------
 
-*Original file Version :* _`v2.37`: https://chromedriver.storage.googleapis.com/index.html?path=2.37/
+*Original file Version :* _`v2.9`: https://chromedriver.storage.googleapis.com/index.html?path=2.9/
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe
 + Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe (*copy from windows32 file*)
@@ -78,7 +78,7 @@ PhantomJs
 Internet Explorer
 -----------------
 
-*Original file Version :* _`v3.5.3`: http://www.seleniumhq.org/download/
+*Original file Version :* _`v3.12.0`: http://www.seleniumhq.org/download/
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_32.exe
 + Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/iexplorerdriver_64.exe
