@@ -42,12 +42,14 @@ QA drivers
 Chrome
 ------
 
-*Original file Version :* _`v2.9`: https://chromedriver.storage.googleapis.com/index.html?path=2.9/
+*From latest stable version number from* : https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+
+*Original file Version :* _`v2.41`: https://chromedriver.storage.googleapis.com/index.html?path=2.41/
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe
 + Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe (*copy from windows32 file*)
 
-+ Linux 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32
++ Linux 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32 (*copy from linux64 file*)
 + Linux 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64
 
 
