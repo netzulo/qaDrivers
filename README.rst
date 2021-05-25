@@ -44,7 +44,7 @@ Chrome
 
 *From latest stable version number from* : https://chromedriver.storage.googleapis.com/LATEST_RELEASE
 
-*Original file Version :* _`v80.0.3987.106`: https://chromedriver.storage.googleapis.com/index.html?path=80.0.3987.106/
+*Original file Version :* _`v90.0.4430.24`: https://chromedriver.storage.googleapis.com/index.html?path=90.0.4430.24/
 
 + Windows 32 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_32.exe
 + Windows 64 bits : _`Download file`: https://github.com/netzulo/qadrivers/raw/master/chromedriver_64.exe (*copy from windows32 file*)
